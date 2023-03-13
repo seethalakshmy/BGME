@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFB915</color>
+    <color name="colorPrimaryDark">#F3B115</color>
+    <color name="colorAccent">#FFCA08</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="tab_disable">#bcbaba</color>
+    <color name="tab_enable">#FFFFFF</color>
+    <color name="tab_checked">#FFFFFF</color>
+    <color name="tab_unchecked">#bcbaba</color>
+
+
+    <!--Indigo 500-->
+    <color name="primary_500">#3F51B5</color>
+    <!--Indigo 700-->
+    <color name="primary_700">#303F9F</color>
+</resources>

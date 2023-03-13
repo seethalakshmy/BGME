@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\97715d800c45ff9b0b8fe27ef36dbf54\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml",
+        "source": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\97715d800c45ff9b0b8fe27ef36dbf54\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml",
+        "source": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml",
+        "source": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    }
+]

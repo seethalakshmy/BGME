@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_navigation_menu_ar.xml",
+        "source": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\src\\main\\res\\menu\\bottom_navigation_menu_ar.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_navigation.xml",
+        "source": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\src\\main\\res\\menu\\menu_navigation.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_navigation_menu.xml",
+        "source": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\src\\main\\res\\menu\\bottom_navigation_menu.xml"
+    }
+]

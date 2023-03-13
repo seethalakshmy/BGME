@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadein.xml",
+        "source": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_to_left.xml",
+        "source": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\src\\main\\res\\anim\\slide_to_left.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\97715d800c45ff9b0b8fe27ef36dbf54\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\97715d800c45ff9b0b8fe27ef36dbf54\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\97715d800c45ff9b0b8fe27ef36dbf54\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\97715d800c45ff9b0b8fe27ef36dbf54\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadeout.xml",
+        "source": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\97715d800c45ff9b0b8fe27ef36dbf54\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\97715d800c45ff9b0b8fe27ef36dbf54\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_to_right.xml",
+        "source": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\src\\main\\res\\anim\\slide_to_right.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\anim\\abc_fade_out.xml"
+    }
+]

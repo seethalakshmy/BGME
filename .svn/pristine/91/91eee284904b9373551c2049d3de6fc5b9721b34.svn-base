@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\97715d800c45ff9b0b8fe27ef36dbf54\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\97715d800c45ff9b0b8fe27ef36dbf54\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\97715d800c45ff9b0b8fe27ef36dbf54\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\97715d800c45ff9b0b8fe27ef36dbf54\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\item_background.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\ahbottomnavigation-2.0.6.aar\\0ecfa29718a39d06b8d5729c1f39c593\\res\\drawable-v21\\item_background.xml"
+    }
+]

@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "1003036963283",
+    "firebase_url": "https://bgmiddleeast-44773.firebaseio.com",
+    "project_id": "bgmiddleeast-44773",
+    "storage_bucket": "bgmiddleeast-44773.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003036963283:android:e56e07a89fef65f1",
+        "android_client_info": {
+          "package_name": "com.bgcrovato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003036963283-2ju9r0o8oimq2pqvhef9pjl1rm3hesvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bgcrovato",
+            "certificate_hash": "8cc8cf2df555c62f580adbfc8174cfa464afc507"
+          }
+        },
+        {
+          "client_id": "1003036963283-lndeafhrdniluqlf9htvpqoas13eschp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRQfHsyXYthy3bj0W6YPUBuJHOVY9X6c0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003036963283-iup12jbh46g2ga9dh3m9bvehsqtq4bef.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1003036963283-fvhhp2nlhlecpuernp1499sdg036b7vj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.BG.me"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003036963283:android:516edec228679ad5",
+        "android_client_info": {
+          "package_name": "com.bgmiddleeast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003036963283-s5qqe3t9bhdi6elv3e14tqj62u96sq9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bgmiddleeast",
+            "certificate_hash": "8cc8cf2df555c62f580adbfc8174cfa464afc507"
+          }
+        },
+        {
+          "client_id": "1003036963283-dav6tmt0t4daa5vtrm7b6cg61ebmdb2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bgmiddleeast",
+            "certificate_hash": "bbec5a34c6a210dc0499e12b52c3fea484f2244b"
+          }
+        },
+        {
+          "client_id": "1003036963283-3kpc57hphiuplr19ml5cludtjkf43d4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bgmiddleeast",
+            "certificate_hash": "6646027d2bba20ddb48bc5b8931b4b3143100664"
+          }
+        },
+        {
+          "client_id": "1003036963283-lndeafhrdniluqlf9htvpqoas13eschp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRQfHsyXYthy3bj0W6YPUBuJHOVY9X6c0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003036963283-iup12jbh46g2ga9dh3m9bvehsqtq4bef.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1003036963283-fvhhp2nlhlecpuernp1499sdg036b7vj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.BG.me"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

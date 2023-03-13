@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\97715d800c45ff9b0b8fe27ef36dbf54\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color-v23\\abc_tint_default.xml"
+    }
+]

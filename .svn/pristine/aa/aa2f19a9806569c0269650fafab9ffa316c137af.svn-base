@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_about"
+        android:title="@string/about"
+        android:icon="@drawable/ic_about" />
+
+    <item
+        android:id="@+id/action_benefits"
+        android:title="@string/benefits"
+        android:icon="@drawable/ic_benefits" />
+
+    <item
+        android:id="@+id/action_products"
+        android:title="@string/product"
+        android:icon="@drawable/ic_products" />
+
+    <item
+        android:id="@+id/action_videos"
+        android:title="@string/videos"
+        android:icon="@drawable/ic_videos" />
+
+</menu>

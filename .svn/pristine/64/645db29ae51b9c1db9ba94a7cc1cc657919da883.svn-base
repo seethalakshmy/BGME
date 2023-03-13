@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/heading_bg">
+
+        <include
+            android:id="@+id/plain_toolbar"
+            layout="@layout/toolbar_plain"></include>
+
+        <LinearLayout
+            android:id="@+id/lin1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/plain_toolbar"
+            android:orientation="vertical"
+
+            android:padding="28dp">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="BG Middle East"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Dubai, United Arab Emirates"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/lin2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/lin1"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/address_bg"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:paddingBottom="20dp"
+            android:paddingLeft="20dp"
+            android:paddingTop="20dp">
+
+            <TextView
+                android:id="@+id/txt_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:drawableLeft="@drawable/ic_mail"
+                android:drawablePadding="5dp"
+                android:gravity="center_vertical"
+                android:padding="5dp"
+                android:text="info@bgmiddleeast.com"
+                android:textColor="#505050"
+                android:textSize="15dp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/img"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="7dp"
+                    android:layout_alignParentTop="true"
+                    android:src="@drawable/ic_location" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/img"
+                    android:gravity="center_vertical"
+                    android:padding="5dp"
+                    android:text="Sobha Ivory – 1, Suite: 505, Dubai, UAE"
+                    android:textColor="#505050"
+                    android:textSize="15dp" />
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+        <fragment
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.MapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/lin2" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/frame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foregroundGravity="center_horizontal"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        app:layout_anchor="@+id/lin2">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="start|center_vertical"
+            android:layout_marginTop="2dp"
+            android:src="@drawable/bg_contact" />
+
+        <ImageView
+            android:id="@+id/img_call"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_gravity="end|center_vertical"
+            android:src="@drawable/ic_call" />
+
+
+    </FrameLayout>
+</android.support.design.widget.CoordinatorLayout>

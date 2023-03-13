@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.1.aar\\9624c57b6ccf4f4a848ea728e4cee7f9\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\97715d800c45ff9b0b8fe27ef36dbf54\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\97715d800c45ff9b0b8fe27ef36dbf54\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.1.aar\\9624c57b6ccf4f4a848ea728e4cee7f9\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.1.aar\\9624c57b6ccf4f4a848ea728e4cee7f9\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\color\\abc_tint_switch_thumb.xml"
+    }
+]

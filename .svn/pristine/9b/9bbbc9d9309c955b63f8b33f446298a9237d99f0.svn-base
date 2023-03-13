@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bgmiddleeast.Activity.LoginActivity">
+
+
+
+    <LinearLayout
+        android:id="@+id/activity_register"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/splash_bg"
+        android:orientation="vertical">
+        <include
+            android:id="@+id/account_toolbar"
+            layout="@layout/login_toolbar_ar"
+
+            />
+
+
+        <!--Dummy Layout for removing focuses of other views-->
+        <LinearLayout
+            android:layout_width="0px"
+            android:layout_height="0px"
+            android:focusable="true"
+            android:focusableInTouchMode="true" />
+        <!--End of Dummy Layout for removing focuses of other views-->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#E7000000">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="20dp"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="0.6"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+                        <TextView
+                            android:id="@+id/textView7"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/forget_pwd_msg_ar"
+                            android:textSize="16dp"
+                            android:layout_marginBottom="20dp"
+                            android:textColor="@color/white" />
+
+                        <android.support.design.widget.TextInputLayout
+                            android:id="@+id/input_layout_username"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="20dp"
+                            android:textColor="@android:color/white"
+                            android:textColorHint="@color/white">
+
+                            <EditText
+                                android:id="@+id/input_username"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:drawableRight="@drawable/ic_user_id"
+                                android:drawableEnd="@drawable/ic_user_id"
+                                android:focusableInTouchMode="true"
+                                android:hint="@string/hint_username_ar"
+                                android:gravity="right"
+                                android:imeOptions="actionNext"
+                                android:maxLines="1"
+                                android:textColor="@android:color/white"
+                                android:textColorHint="@color/white"
+                                android:textCursorDrawable="@null"
+                                android:textSize="15dp"
+                                android:theme="@style/MyEditTextTheme" />
+                        </android.support.design.widget.TextInputLayout>
+
+
+
+
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginTop="10dp"
+                            android:gravity="center">
+
+                            <ImageButton
+                                android:id="@+id/bt_submit"
+                                android:layout_width="match_parent"
+                                android:layout_height="50dp"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginRight="10dp"
+                                android:layout_marginTop="10dp"
+                                android:layout_centerInParent="true"
+                                android:background="@null"
+                                android:scaleType="fitXY"
+                                android:src="@drawable/bt_white" />
+
+                            <TextView
+                                android:id="@+id/textView5"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:layout_centerInParent="true"
+                                android:textColor="#000000"
+                                android:text="@string/submit_ar" />
+                        </RelativeLayout>
+
+                    </LinearLayout>
+
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+        </FrameLayout>
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

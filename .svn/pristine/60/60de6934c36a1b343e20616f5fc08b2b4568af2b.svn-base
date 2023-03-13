@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\bottom_navigation_small_item.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\ahbottomnavigation-2.0.6.aar\\0ecfa29718a39d06b8d5729c1f39c593\\res\\layout-v21\\bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\bottom_navigation_item.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\ahbottomnavigation-2.0.6.aar\\0ecfa29718a39d06b8d5729c1f39c593\\res\\layout-v21\\bottom_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\seetha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\1e48ef8cd085e9be9e1e9425d8a0a0f6\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

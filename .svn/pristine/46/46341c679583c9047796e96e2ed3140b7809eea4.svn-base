@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+   <!-- <item android:drawable="@drawable/toggle_ar" android:state_checked="false" />
+    <item android:drawable="@drawable/tog_en" android:state_checked="true" />-->
+    <item
+        android:state_checked="false">
+        <bitmap android:src="@drawable/toggle_ar"
+            android:gravity="center_vertical"
+            />
+
+    </item>
+    <item  android:state_checked="true" >
+        <bitmap android:src="@drawable/tog_en"
+            android:gravity="center_vertical"
+            />
+    </item>
+
+</selector>

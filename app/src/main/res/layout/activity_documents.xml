@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_category_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2399B7"
+    android:orientation="vertical"
+    tools:tempActivity="com.fobs.activity.CategoryListActivity">
+
+
+    <include
+        android:id="@+id/toolbar_id"
+        layout="@layout/search_toolbar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2399B7"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:background="#16719E"
+            android:orientation="horizontal">
+
+
+        <RelativeLayout
+            android:id="@+id/lin_serch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="0.3"
+            android:paddingTop="1dp"
+            android:paddingBottom="1dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:background="@drawable/ic_back_search"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_gravity="left|center_vertical"
+                android:layout_margin="10dp"
+                android:src="@drawable/ic_search" />
+
+            <EditText
+                android:id="@+id/editText3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_toRightOf="@+id/imageView8"
+                android:background="@null"
+                android:ems="10"
+                android:focusableInTouchMode="true"
+                android:gravity="center_vertical"
+                android:hint="Search"
+                android:imeOptions="actionSearch"
+                android:inputType="textPersonName"
+                android:text=""
+                android:textColorHint="#C3C3C3" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/shadow"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:text="Go" />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1.7"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/img_filter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/ic_age" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+           >
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/cat_recycler_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="1dp"
+                android:scrollbars="none" />
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
+
+

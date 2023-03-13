@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_notifications_black_24dp.png",
+        "source": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_home_black_24dp.png",
+        "source": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_dashboard_black_24dp.png",
+        "source": "F:\\MyWorkShop\\MyWorkSpace\\WorkShop\\BGMiddleEast\\SVNNew\\BGME\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+    }
+]
